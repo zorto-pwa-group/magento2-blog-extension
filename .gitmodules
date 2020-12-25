@@ -22,4 +22,3 @@
 [submodule "pwa-blog-rssfeed"]
 	path = app/code/ZT/RssFeed
 	url = git@github.com:zorto-pwa-group/magento2-blog-rss-feed.git
-
