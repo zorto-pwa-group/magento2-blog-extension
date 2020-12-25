@@ -1,0 +1,25 @@
+[submodule "pwa-blog-backend"]
+	path = app/code/ZT/Blog
+	url = git@github.com:zortopwa/magento2-blog-backend.git
+[submodule "pwa-blog-graphql"]
+	path = app/code/ZT/BlogGraphQl
+	url = git@github.com:zortopwa/magento2-blog-graphql.git
+[submodule "pwa-blog-theme"]
+	path = app/code/ZT/BlogTheme
+	url = git@github.com:zortopwa/magento2-blog-theme.git
+[submodule "pwa-blog-theme-rozy"]
+	path = app/code/ZT/BlogThemeRozy
+	url = git@github.com:zortopwa/magento2-blog-theme-rozy.git
+[submodule "pwa-blog-theme-simplife"]
+	path = app/code/ZT/BlogThemeSimplife
+	url = git@github.com:zortopwa/magento2-blog-theme-simplife.git
+[submodule "pwa-blog-theme-typeagle"]
+	path = app/code/ZT/BlogThemeTypeagle
+	url = git@github.com:zortopwa/magento2-blog-theme-typeagle.git
+[submodule "pwa-blog-theme-puremedia"]
+	path = app/code/ZT/BlogThemePuremedia
+	url = git@github.com:zortopwa/magento2-blog-theme-puremedia.git
+[submodule "pwa-blog-rssfeed"]
+	path = app/code/ZT/RssFeed
+	url = git@github.com:zortopwa/magento2-blog-rss-feed.git
+
