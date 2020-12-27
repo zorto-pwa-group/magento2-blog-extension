@@ -81,3 +81,5 @@ atlassian*
 #!/pub/media/catalog
 #!/pub/media/downloadable
 #!/var/composer_home
+/SECURITY.md
+/.github/
